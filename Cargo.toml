@@ -5,8 +5,8 @@ authors = ["Bart Massey <bart@cs.pdx.edu>"]
 edition = "2018"
 
 [dependencies]
-serde_json = "1.0.40"
+serde_json = "1.0"
 
 [dependencies.serde]
-version = "1.0.98"
+version = "1.0"
 features = ["derive"]
